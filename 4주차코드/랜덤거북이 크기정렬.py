@@ -8,7 +8,7 @@ swidth, sheight = 500, 500
 if __name__ == "__main__" :
     turtle.title('거북이 리스트 활용(정렬)')
     turtle.setup(width = swidth + 50, height = sheight + 50)
-    turtle.screensize(swidth, sheight)                           ##2021041022 박범준
+    turtle.screensize(swidth, sheight)                      ##2021041022 박범준
 
     for i in range(0, 5) :
         myTurtle = turtle.Turtle('turtle')
